@@ -1,5 +1,5 @@
 # Bank-Management-System-GUI-
-A Mini Project made using Python ,Tkinter for GUI with MySql Database Connectivity.
+A Mini Project using Technologies like Python ,Tkinter for GUI with MySql Database Connectivity.
 
 What You Need to Run The Code
 
